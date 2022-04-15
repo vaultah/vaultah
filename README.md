@@ -6,6 +6,3 @@ If you are looking for recent examples of my work, check out [replicat](https://
 In addition to being a useful utility that seems to work great, it has been an interesting and a slightly
 challenging project that touched on areas that I would love to continue exploring -- cryptography, math,
 low-level programming, cross-platform software, C++, and concurrency.
-
-Coincidentally, I'm currently looking for a job that may or may not involve those things. You can contact me
-at flwaultah🌀gmail.com.
